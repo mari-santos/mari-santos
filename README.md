@@ -3,7 +3,7 @@
 
 ## My name is Mariana Santos and my nickname is "mari-santos"
 
-I currently work as a UX Designer but I always liked the front-end and in recent times I've been dedicated to learning about HTML, CSS, JS and frameworks such as Angular.
+I currently work as a UX Designer but I always liked the front-end and in recent times I've been dedicated to learning about HTML, CSS, JS and frameworks such as React and Angular.
 
 ____
 
@@ -27,5 +27,6 @@ ____
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white">
 <img src="https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&amp;logo=jira">
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white">
-
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge">
+<img ssrc="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge">
 </p>
